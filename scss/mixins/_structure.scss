@@ -1,0 +1,10 @@
+@mixin span (){
+  transform: rotate(-90deg);
+  width: 600px;
+  @include center();
+  justify-content: space-between;
+  height: 30px; 
+  font-family: $bigFont;
+  font-size: 1rem;
+  font-weight: 900;
+}

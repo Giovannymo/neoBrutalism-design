@@ -1,0 +1,13 @@
+
+
+@mixin grid-template ($columnStart:0, $columnEnd:0, $rowStart:0, $rowEnd:0){
+  grid-column: $columnStart/ span $columnEnd;
+  grid-row: $rowStart / span $rowEnd;
+} 
+
+
+@mixin center (){
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

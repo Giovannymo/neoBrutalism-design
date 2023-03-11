@@ -2,6 +2,7 @@
 
 ### NIKE ECOMMERCE
 - This is a design ecommerce for nike, i used html, css with sass and the metodology BEM.
+- Disable adBlocker for view better
 
 ### Inspiration
 
